@@ -14,10 +14,8 @@ The goal of this repository is to:
 
 ## 📁 Planned Repository Structure
 cybersecurity-learning/
-│
-├── python/ # Security-related Python scripts
-├── bash/ # Bash scripts and Linux automation
-├── linux/ # Linux commands and notes
-├── networking/ # Networking fundamentals
-├── ctf-notes/ # CTF practice notes
-
+├── python/          # Security-related Python scripts
+├── bash/            # Bash scripts and Linux automation
+├── linux/           # Linux commands and notes
+├── networking/      # Networking fundamentals
+└── ctf-notes/       # CTF practice notes
