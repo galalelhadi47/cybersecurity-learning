@@ -12,6 +12,6 @@ The goal of this repository is to:
 
 ---
 
-## 📁 Repository Structure
+## 📁 Planned Repository Structure
 
 
